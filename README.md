@@ -38,7 +38,7 @@ Track your emotional patterns over time for **better self-awareness** and person
 
 - **React** – Frontend UI framework  
 - **TypeScript & JavaScript** – Type-safe development  
-- **CSS / Tailwind (if used)** – Styling and layout  
+- **CSS / Tailwind** – Styling and layout  
 - **Vercel** – For fast and easy deployment
 
 ---
